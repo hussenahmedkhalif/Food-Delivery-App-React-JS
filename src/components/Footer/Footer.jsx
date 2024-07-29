@@ -11,10 +11,10 @@ const Footer = () => {
         <div className="footer-content-left">
           <img src={assets.logo} alt="logo" />
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugit
-            ratione fugiat vitae quisquam dolores sint id, nisi veniam
-            repellendus. Tempore, expedita. At praesentium deserunt minima!
-            Porro iste beatae maxime voluptatem?
+          We are a dedicated food delivery company committed to bringing 
+          delicious meals from your favorite local restaurants straight to your doorstep. 
+          Our platform offers a seamless ordering experience, allowing customers to 
+          explore diverse menus, customize their orders, and track deliveries in real-time.
           </p>
           <div className="footer-social-icons">
             <a href="https://www.facebook.com">
@@ -40,7 +40,7 @@ const Footer = () => {
         <div className="footer-content-right">
           <h2>GET IN TOUCH</h2>
           <ul>
-            <li>+1-123-456-7890</li>
+            <li>+254712298902</li>
             <li>contact@tomato.com</li>
           </ul>
         </div>
